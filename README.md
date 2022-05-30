@@ -1,4 +1,4 @@
-## Olá, me chamo Arnaldo Pereira e sou um estudande e desenvolvedor back-end em formação
+## Estudande e desenvolvedor back-end em formação
 <div align="center">
   <a href="https://github.com/Arnaldo-PS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arnaldo-PS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
