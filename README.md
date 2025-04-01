@@ -4,8 +4,8 @@
 </h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=cs,javascript,typescript,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,postman,git,github,mysql,sqlite,postgres,docker,azure" />
+    <br>
 </div>
 
 <br/>
